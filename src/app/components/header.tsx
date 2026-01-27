@@ -6,12 +6,17 @@ export function Header() {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <div className="bg-accent p-2 rounded-lg">
-              <Utensils className="w-6 h-6 text-accent-foreground" />
-            </div>
+                <div>
+                  <img
+                    src="/assets/logo.jpg"
+                    alt="Minh Sang Logo"
+                    className="w-10 h-10 object-contain"
+                    style={{ borderRadius: '0.5rem' }}
+                  />
+                </div>
             <div>
-              <h1 className="text-xl text-primary-foreground">La Grande Table</h1>
-              <p className="text-xs text-primary-foreground/80">Fine Dining Experience</p>
+              <h1 className="text-xl text-primary-foreground">Dịch Vụ Nấu Ăn Minh Sang</h1>
+              <p className="text-xs text-primary-foreground/80">Chất lượng dịch vụ hàng đầu</p>
             </div>
           </div>
           
