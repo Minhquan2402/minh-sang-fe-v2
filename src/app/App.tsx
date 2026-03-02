@@ -164,8 +164,8 @@ export default function App() {
       <footer id="contact" className="bg-primary text-primary-foreground py-12">
         <div className="container mx-auto px-4 text-center">
           <h3 className="text-xl mb-4 text-primary-foreground">Contact Us</h3>
-          <p className="text-primary-foreground/80 mb-2">Phone: +1 (555) 123-4567</p>
-          <p className="text-primary-foreground/80 mb-2">Email: reservations@lagrandetable.com</p>
+          <p className="text-primary-foreground/80 mb-2">Phone: 0983240204</p>
+          <p className="text-primary-foreground/80 mb-2">Email: minhquan240204@gmail.com</p>
           <p className="text-primary-foreground/80 mt-8 text-sm">© 2026 La Grande Table. All rights reserved.</p>
         </div>
       </footer>
