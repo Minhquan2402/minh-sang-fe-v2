@@ -63,3 +63,6 @@ typings/
 # Exclude project metadata files
 README.md
 ATTRIBUTIONS.md
+node_modules/
+ATTRIBUTIONS.md
+README.md
